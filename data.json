@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0",
+  "team_id": 4,
+  "topic": "Эффективность и затраты офисов",
+  "synthetic": true,
+  "updated_at": "2026-11-10T19:00:00Z",
+  "grain": "period + office_id",
+  "units": {
+    "staff": "чел.",
+    "commission_mln": "млн RUB",
+    "marketing_mln": "млн RUB",
+    "payroll_mln": "млн RUB",
+    "rent_mln": "млн RUB"
+  },
+  "records": [
+    {
+      "period": "2026-10-16",
+      "office_id": "A01",
+      "office": "Центральный",
+      "city": "Москва",
+      "staff": 12,
+      "commission_mln": 2.49,
+      "marketing_mln": 2,
+      "payroll_mln": 1.2,
+      "rent_mln": 0.6
+    },
+    {
+      "period": "2026-10-16",
+      "office_id": "A02",
+      "office": "Северный",
+      "city": "Санкт-Петербург",
+      "staff": 10,
+      "commission_mln": 2.31,
+      "marketing_mln": 2.3,
+      "payroll_mln": 1.05,
+      "rent_mln": 0.52
+    },
+    {
+      "period": "2026-10-16",
+      "office_id": "A03",
+      "office": "Восточный",
+      "city": "Екатеринбург",
+      "staff": 8,
+      "commission_mln": 1.74,
+      "marketing_mln": 2.6,
+      "payroll_mln": 0.8999999999999999,
+      "rent_mln": 0.43999999999999995
+    },
+    {
+      "period": "2026-10-16",
+      "office_id": "A04",
+      "office": "Южный",
+      "city": "Краснодар",
+      "staff": 6,
+      "commission_mln": 1.35,
+      "marketing_mln": 2.9,
+      "payroll_mln": 0.75,
+      "rent_mln": 0.36
+    },
+    {
+      "period": "2026-10-23",
+      "office_id": "A01",
+      "office": "Центральный",
+      "city": "Москва",
+      "staff": 12,
+      "commission_mln": 2.66,
+      "marketing_mln": 2.1,
+      "payroll_mln": 1.2,
+      "rent_mln": 0.6
+    },
+    {
+      "period": "2026-10-23",
+      "office_id": "A02",
+      "office": "Северный",
+      "city": "Санкт-Петербург",
+      "staff": 10,
+      "commission_mln": 2.36,
+      "marketing_mln": 2.4,
+      "payroll_mln": 1.05,
+      "rent_mln": 0.52
+    },
+    {
+      "period": "2026-10-23",
+      "office_id": "A03",
+      "office": "Восточный",
+      "city": "Екатеринбург",
+      "staff": 8,
+      "commission_mln": 1.81,
+      "marketing_mln": 2.7,
+      "payroll_mln": 0.8999999999999999,
+      "rent_mln": 0.43999999999999995
+    },
+    {
+      "period": "2026-10-23",
+      "office_id": "A04",
+      "office": "Южный",
+      "city": "Краснодар",
+      "staff": 6,
+      "commission_mln": 1.31,
+      "marketing_mln": 3,
+      "payroll_mln": 0.75,
+      "rent_mln": 0.36
+    },
+    {
+      "period": "2026-10-30",
+      "office_id": "A01",
+      "office": "Центральный",
+      "city": "Москва",
+      "staff": 12,
+      "commission_mln": 2.81,
+      "marketing_mln": 2.2,
+      "payroll_mln": 1.2,
+      "rent_mln": 0.6
+    },
+    {
+      "period": "2026-10-30",
+      "office_id": "A02",
+      "office": "Северный",
+      "city": "Санкт-Петербург",
+      "staff": 10,
+      "commission_mln": 2.28,
+      "marketing_mln": 2.5,
+      "payroll_mln": 1.05,
+      "rent_mln": 0.52
+    },
+    {
+      "period": "2026-10-30",
+      "office_id": "A03",
+      "office": "Восточный",
+      "city": "Екатеринбург",
+      "staff": 8,
+      "commission_mln": 1.87,
+      "marketing_mln": 2.8,
+      "payroll_mln": 0.8999999999999999,
+      "rent_mln": 0.43999999999999995
+    },
+    {
+      "period": "2026-10-30",
+      "office_id": "A04",
+      "office": "Южный",
+      "city": "Краснодар",
+      "staff": 6,
+      "commission_mln": 1.39,
+      "marketing_mln": 3.1,
+      "payroll_mln": 0.75,
+      "rent_mln": 0.36
+    },
+    {
+      "period": "2026-11-06",
+      "office_id": "A01",
+      "office": "Центральный",
+      "city": "Москва",
+      "staff": 12,
+      "commission_mln": 3.09,
+      "marketing_mln": 2.3,
+      "payroll_mln": 1.2,
+      "rent_mln": 0.6
+    },
+    {
+      "period": "2026-11-06",
+      "office_id": "A02",
+      "office": "Северный",
+      "city": "Санкт-Петербург",
+      "staff": 10,
+      "commission_mln": 2.22,
+      "marketing_mln": 2.6,
+      "payroll_mln": 1.05,
+      "rent_mln": 0.52
+    },
+    {
+      "period": "2026-11-06",
+      "office_id": "A03",
+      "office": "Восточный",
+      "city": "Екатеринбург",
+      "staff": 8,
+      "commission_mln": 2.07,
+      "marketing_mln": 2.9,
+      "payroll_mln": 0.8999999999999999,
+      "rent_mln": 0.43999999999999995
+    },
+    {
+      "period": "2026-11-06",
+      "office_id": "A04",
+      "office": "Южный",
+      "city": "Краснодар",
+      "staff": 6,
+      "commission_mln": 1.18,
+      "marketing_mln": 3.2,
+      "payroll_mln": 0.75,
+      "rent_mln": 0.36
+    }
+  ]
+}
